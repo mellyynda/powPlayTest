@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/powPlayTest/static/css/main.e9c54a50.chunk.css",
+    "main.js": "/powPlayTest/static/js/main.f3eb839b.chunk.js",
+    "main.js.map": "/powPlayTest/static/js/main.f3eb839b.chunk.js.map",
+    "runtime-main.js": "/powPlayTest/static/js/runtime-main.98cbed66.js",
+    "runtime-main.js.map": "/powPlayTest/static/js/runtime-main.98cbed66.js.map",
+    "static/js/2.d25f07c6.chunk.js": "/powPlayTest/static/js/2.d25f07c6.chunk.js",
+    "static/js/2.d25f07c6.chunk.js.map": "/powPlayTest/static/js/2.d25f07c6.chunk.js.map",
+    "index.html": "/powPlayTest/index.html",
+    "static/css/main.e9c54a50.chunk.css.map": "/powPlayTest/static/css/main.e9c54a50.chunk.css.map",
+    "static/js/2.d25f07c6.chunk.js.LICENSE.txt": "/powPlayTest/static/js/2.d25f07c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98cbed66.js",
+    "static/js/2.d25f07c6.chunk.js",
+    "static/css/main.e9c54a50.chunk.css",
+    "static/js/main.f3eb839b.chunk.js"
+  ]
+}
